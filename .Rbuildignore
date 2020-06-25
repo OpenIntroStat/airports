@@ -1,11 +1,12 @@
 ^airports\.Rproj$
 ^\.Rproj\.user$
-^CODE_OF_CONDUCT\.md$
-^README\.Rmd$
 ^LICENSE\.md$
-^airports-hex\.key$
+^README\.Rmd$
+^cran-comments\.md$
+^\.github$
+^CODE_OF_CONDUCT\.md$
+^data-raw$
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
-^cran-comments\.md$
-^data-raw$
+^airports-hex\.key$
