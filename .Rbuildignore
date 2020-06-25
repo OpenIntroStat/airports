@@ -10,3 +10,4 @@
 ^docs$
 ^pkgdown$
 ^airports-hex\.key$
+^CRAN-RELEASE$
