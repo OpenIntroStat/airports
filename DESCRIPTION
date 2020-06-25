@@ -1,5 +1,5 @@
 Package: airports
-Title: Data on airports
+Title: Data on Airports
 Version: 0.1.0
 Authors@R: 
     person(given = "Mine",
