@@ -4,3 +4,8 @@
 ^README\.Rmd$
 ^LICENSE\.md$
 ^airports-hex\.key$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^cran-comments\.md$
+^data-raw$
