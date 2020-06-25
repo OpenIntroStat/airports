@@ -1,5 +1,5 @@
 Package: airports
-Title: What the Package Does (One Line, Title Case)
+Title: Data on airports
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Mine",
@@ -7,8 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "cetinkaya.mine@gmail.com",
            comment = c(ORCID = "0000-0001-6452-2420"))
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+Description: Geographic, use, and property related data on airports.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
