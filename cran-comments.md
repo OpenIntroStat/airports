@@ -1,10 +1,14 @@
 ## Test environments
-* local R installation, R 4.0.1
-* ubuntu 16.04 (on travis-ci), R 4.0.1
-* win-builder (devel)
+
+* local OS X install, R 4.0.1
+* GitHub Actions (ubuntu-16.04): release
+* GitHub Actions (windows): release
+* Github Actions (macOS): release, devel
+* win-builder: release, devel, oldrelease
+* r-hub: windows-x86_64-oldrel, ubuntu-gcc-release, fedora-clang-devel
 
 ## R CMD check results
 
-0 errors | 0 warnings | 1 note
+There were no ERRORs or WARNINGs.
 
-* This is a new release.
+There was 1 NOTE: New submission.
