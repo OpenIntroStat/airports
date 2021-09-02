@@ -17,7 +17,9 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/airports)](https://CRAN.R-project.org/package=airports)
-[![R build status](https://github.com/OpenIntroStat/airports/workflows/R-CMD-check/badge.svg)](https://github.com/OpenIntroStat/airports/actions)
+[![R-CMD-check](https://github.com/OpenIntroStat/airports/workflows/R-CMD-check/badge.svg)](https://github.com/OpenIntroStat/airports/actions)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/airports)](https://cran.r-project.org/package=airports)
 <!-- badges: end -->
 
 This package contains geographic, use, and property related data on airports.
