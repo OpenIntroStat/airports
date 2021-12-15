@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# airports <a href="https://openintrostat.github.io/airports"><img src="man/figures/airports-hex.png" align="right" height="170" /></a>
+# airports <a href="https://openintrostat.github.io/airports"><img src="man/figures/logo.png" align="right" alt="Package hex logo" height="120" /></a>
 
 <!-- badges: start -->
 
